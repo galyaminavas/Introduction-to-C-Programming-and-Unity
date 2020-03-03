@@ -153,6 +153,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabRock: {fileID: 6351665946173352558, guid: 33096da003f7de84da6b87af4cf241f7,
     type: 3}
+  rockSprite0: {fileID: 21300000, guid: 802c6d7a04bec6d468b5132bc01077bb, type: 3}
+  rockSprite1: {fileID: 21300000, guid: 978a0b7989d90a54e90def5bbae0acb6, type: 3}
+  rockSprite2: {fileID: 21300000, guid: 00df48a3180b2a14bb7d588fb63d5853, type: 3}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
